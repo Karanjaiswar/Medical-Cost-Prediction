@@ -1,6 +1,6 @@
 <H1 style="color: black;">Medical Insurance Cost Prediction</H1>
 <h2>Link to Kaggle Dataset : <a href="https://www.kaggle.com/mirichoi0218/insurance">Medical Insurance Data</a></h2>
-<h3>This repo contains a lot of basics such as Data preprocessing, Data Visualization, Prediction using various models and tuning their Hyper parameters. Also, the best model was chosen and was deployed using Flask locally.</h3>
+<h3>This repo contains a lot of basics such as Data preprocessing, Data Visualization, Prediction using various models and tuning their Hyper parameters. Also, the best model was chosen and was deployed .</h3>
 
 <h2>Topics Covered : </h2>
 <ol>
