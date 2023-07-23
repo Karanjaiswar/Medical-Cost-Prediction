@@ -16,6 +16,5 @@
     <li>Prediction using Random Forest Regressor</li>
     <li>Performing Hyper tuning for above mentioned models</li>
     <li>Plotting Graph for all Models to compare performance</li>
-    <li>Preparing model for deployment</li>
-    <li>Deployed model using Flask</li>
+    
 </ol>
